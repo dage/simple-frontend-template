@@ -1,0 +1,16 @@
+{
+  "compilerOptions": {
+    "target": "es5",
+    "module": "es6",
+    "esModuleInterop": true,
+    "moduleResolution": "node",
+    "jsx": "react",
+    "outDir": "./build",
+    "skipLibCheck": true,
+    "allowJs": true,
+    "lib": [
+      "es2015",
+      "dom"
+    ],
+  }
+}
