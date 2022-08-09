@@ -1,15 +1,5 @@
-.app {
+@import url('https://fonts.googleapis.com/css?family=Kanit&display=swap');
+
+.title {
     font-family: 'Kanit', sans-serif;
-    .pokemon-table {
-        img {
-            max-height: 30px;
-        }
-        th {
-            text-align: left;
-            cursor: pointer;
-        }    
-        .hidden {
-            visibility: hidden;
-        }
-    } 
 }
