@@ -1,4 +1,4 @@
-# frontend-template
+# simple-frontend-template
 
 ## Description
 
